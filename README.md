@@ -1,5 +1,6 @@
 <h1>Hello, Traveler</h1>
 <a href="https://discordapp.com/users/394185816370315276" target="_blank"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-gray?style=flat&logo=Discord&logoColor=white&logoSize=auto&labelColor=cornflowerblue"></a>
+<a href="https://linktr.ee/swingthevine" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-gray?style=flat&logo=Linktree"></a>
 <br>
 I am a programmer called SwingTheVine. I've programmed numerous projects since 2012. Some of the projects I am working on right now are:
 <ul>
