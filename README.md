@@ -210,3 +210,73 @@ My coding style is similar to Kernighan & Ritchie (K&R), with a few changes to m
   }
   ```
 </details>
+<h2>Device Details</h2>
+This is directed to people I submit bug reports to. If I linked you to this, you can view my device specifications below in order to gather more information on which devices the bug occurs on. Please note that some versions might be out-of-date because I don't update this list frequently.
+<details>
+  <summary>
+    Device Details <sup>(click to expand)</sup>
+  </summary>
+  <h3>About</h3>
+  <ul>
+    <li>Manufacturer: <code>Acer</code></li>
+    <li>Model: <code>Predator PH315-52</code></li>
+    <li>Touch Input Detected</li>
+  </ul>
+  <h3>Processor Information</h3>
+  <ul>
+    <li>CPU Brand: <code>Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz</code></li>
+    <li>Logical Processors: <code>12</code></li>
+    <li>Physical Processors: <code>6</code></li>
+    <li>Hyper-threading: <code>Supported</code></li>
+    <li>FCMOV: <code>Unsupported</code></li>
+    <li>SSE2 - SSE42: <code>Supported</code></li>
+    <li>AVX - AVX2: <code>Supported</code></li>
+    <li>AVX512F - AVX512VNNI: <code>Unsupported</code></li>
+  </ul>
+  <h3>Operating System</h3>
+  <ul>
+    <li><code>Windows 11 (64 bit)</code></li>
+    <li>Version: <code>25H2</code></li>
+    <li>NTFS: <code>Supported</code></li>
+  </ul>
+  <h3>Browser Rendering</h3>
+  <ul>
+    <li>Typical Browser: <code>Chrome 144.0.7559.133 (Official Build) (64-bit)</code></li>
+    <li>Browser GPU Acceleration Status: <code>Enabled</code></li>
+    <li>Browser Canvas: <code>Enabled</code></li>
+    <li>Browser Compositing: <code>Enabled</code></li>
+    <li>Browser OpenGL: <code>Enabled</code></li>
+    <li>Browser Rasterization: <code>Enabled</code></li>
+    <li>Browser Video Decode/Encode: <code>Enabled</code></li>
+    <li>Browser Vulkan: <code>Disabled</code></li>
+    <li>Browser WebGL: <code>Enabled</code></li>
+    <li>Browser WebGL2: <code>Enabled</code></li>
+    <li>Browser WebGPU: <code>Enabled</code></li>
+    <li>Browser WebNN: <code>Disabled</code></li>
+  </ul>
+  <h3>Video Card</h3>
+  <ul>
+    <li>Driver: <code>Intel(R) UHD Graphics 630</code></li>
+    <li>Driver Version: <code>31.0.101.2115</code></li>
+    <li>DirectX Driver Version: <code>32.0.15.8129</code></li>
+    <li>Monitor Refresh Rate: <code>60 Hz</code></li>
+    <li>DirectX Card: <code>NVIDIA GeForce GTX 1660 Ti</code></li>
+    <li>Number of Monitors: <code>2</code></li>
+    <li>Number of Logical Video Cards: <code>2</code></li>
+    <li>Primary Display Resolution: <code>1920 x 1080</code></li>
+    <li>Desktop Resolution: <code>3840 x 1080</code></li>
+    <li>Primary VRAM: <code>1024 MB</code></li>
+  </ul>
+  <h3>Sound Card</h3>
+  <ul>
+    <li>Audio device: <code>Speakers (Realtek(R) Audio)</code></li>
+  </ul>
+  <h3>Memory</h3>
+  <ul>
+    <li>RAM: <code>16231 Mb</code></li>
+  </ul>
+  <h3>Other</h3>
+  <ul>
+    <li>UI Language: <code>English</code></li>
+  </ul>
+</details>
